@@ -1,1 +1,1 @@
-Common header files for technology libraries with Packet Batch.
+Common header files for APIs created by [Packet Batch](https://github.com/Packet-Batch).
